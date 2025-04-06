@@ -18,7 +18,7 @@ The documentation and test cases are modeled after real-world integration and UA
 
 ## Repository Contents
 
-- [SAP SD Test Cases – Advanced](./sap_sd_advanced_test_cases(1).xlsx) 
+- [SAP SD Test Cases – Advanced](./sap_sd_advanced_test_cases (1).xlsx)
 - `README.md` – Project overview and scope  
 - *(Optional: Add visuals in future)*  
   - `o2c-process-flow.png` – Visual flow of O2C steps  
