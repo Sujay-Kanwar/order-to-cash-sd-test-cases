@@ -15,14 +15,27 @@ The documentation and test cases are modeled after real-world integration and UA
 - Pricing and tax condition validation  
 
 ---
-
 ## Repository Contents
 
-- [SAP SD Test Cases – Advanced](./sap_sd_advanced_test_cases.xlsx)
-- `README.md` – Project overview and scope  
-- *(Optional: Add visuals in future)*  
-  - `o2c-process-flow.png` – Visual flow of O2C steps  
-  - SAP transaction screenshots (VA01, VF01, etc.)
+- [`sap_sd_advanced_test_cases.xlsx`](./sap_sd_advanced_test_cases.xlsx) – Functional test cases for core and advanced SAP SD flows  
+- `README.md` – Project overview and testing scope documentation  
+- Visual Previews:  
+  - ![Standard & Returns Test Cases](https://imgur.com/a/JwKlN4F)  
+  - ![Advanced SAP Scenarios](https://imgur.com/a/0B55wrh)  
+
+---
+
+## Sample Test Case Previews
+
+### Standard & Returns Process
+_This sample shows mock test cases for standard sales orders and returns order processing._
+
+![Standard Sales & Returns](https://imgur.com/a/JwKlN4F)
+
+### Advanced Scenarios (Consignment, Third-Party, Intercompany)
+_This sample includes specialized flows such as consignment fill-up, third-party order with TAS item category, and intercompany billing._
+
+![Advanced SAP Scenarios](https://imgur.com/a/0B55wrh)
 
 ---
 
