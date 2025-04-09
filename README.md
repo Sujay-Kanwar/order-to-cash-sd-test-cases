@@ -1,36 +1,38 @@
 # SAP SD – Order-to-Cash Test Case Package
 
-This repository includes a sample package of functional test cases for the SAP S/4HANA Sales & Distribution (SD) module, with a focus on the Order-to-Cash (O2C) process.
+This repository presents a mock package of functional test cases for the SAP S/4HANA Sales & Distribution (SD) module, focused on the Order-to-Cash (O2C) process lifecycle.
 
 ---
 
 ## Overview
 
-The documentation and test cases are modeled after real-world integration and UAT cycles. Core process steps covered include:
+The test cases reflect typical User Acceptance Testing (UAT) and integration steps based on real-world SAP SD flows. Covered processes include:
 
-- Business Partner (BP) setup  
+- Business Partner (BP) maintenance  
 - Sales order creation (VA01)  
 - Delivery processing (VL01N)  
 - Billing and invoice generation (VF01)  
-- Pricing and tax condition validation  
+- Pricing and tax validation
 
 ---
+
 ## Repository Contents
 
-- [`sap_sd_advanced_test_cases.xlsx`](./sap_sd_advanced_test_cases.xlsx) – Functional test cases for core and advanced SAP SD flows  
-- `README.md` – Project overview and testing scope documentation  
+- [`sap_sd_advanced_test_cases.xlsx`](./sap_sd_advanced_test_cases.xlsx) – Structured test cases for core and advanced SAP SD workflows  
+- `README.md` – Overview, scope, and test case preview
 
 ---
 
-## Sample Test Case Previews
-_(Please Zoom 175% for Comfortable viewing of tables. Keys: "Ctrl + +")_
-### Standard & Returns Process
-_This sample shows mock test cases for standard sales orders and returns order processing._
+## Sample Test Case Previews  
+*Tip: Zoom to 175% for easier viewing (`Ctrl` + `+`)*
+
+### Standard & Returns  
+Mock test cases for standard sales order flow and returns order processing.
 
 ![Standard Sales & Returns](https://i.imgur.com/BNgrnLG.jpeg)
 
-### Advanced Scenarios (Consignment, Third-Party, Intercompany)
-_This sample includes specialized flows such as consignment fill-up, third-party order with TAS item category, and intercompany billing._
+### Advanced Flows (Consignment, Third-Party, Intercompany)  
+Includes specialized test scenarios: consignment fill-up, third-party processing, and intercompany billing logic.
 
 ![Advanced SAP Scenarios](https://i.imgur.com/CFEGXI4.jpeg)
 
@@ -38,17 +40,15 @@ _This sample includes specialized flows such as consignment fill-up, third-party
 
 ## Skills Demonstrated
 
-- SAP S/4HANA (SD module – Order Management, Billing)  
-- Functional testing and documentation  
-- User Acceptance Testing (UAT) support  
-- Business process flow design  
-- Use of Excel for test documentation
+- SAP S/4HANA SD (Order Management, Billing)
+- Functional test case creation  
+- UAT documentation practices  
+- Business process analysis  
+- Excel-based testing templates  
+- GitHub documentation and version control
 
 ---
 
 ## Disclaimer
 
-This is a mock deliverable based on internship experience. It is intended for educational and portfolio demonstration purposes only.
-
----
-
+This is a mock documentation project based on internship experience. It is intended solely for educational and portfolio demonstration purposes.
