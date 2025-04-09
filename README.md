@@ -23,7 +23,7 @@ The documentation and test cases are modeled after real-world integration and UA
 ---
 
 ## Sample Test Case Previews
-
+_(Please Zoom 150% for Comfortable viewing of tables. Keys: "Ctrl + +")_
 ### Standard & Returns Process
 _This sample shows mock test cases for standard sales orders and returns order processing._
 
@@ -52,4 +52,3 @@ This is a mock deliverable based on internship experience. It is intended for ed
 
 ---
 
-*Visuals can be added later in the corner or header of this README to better represent flow diagrams or SAP UI screenshots.*
