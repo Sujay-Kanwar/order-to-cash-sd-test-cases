@@ -23,7 +23,7 @@ The documentation and test cases are modeled after real-world integration and UA
 ---
 
 ## Sample Test Case Previews
-_(Please Zoom 150% for Comfortable viewing of tables. Keys: "Ctrl + +")_
+_(Please Zoom 175% for Comfortable viewing of tables. Keys: "Ctrl + +")_
 ### Standard & Returns Process
 _This sample shows mock test cases for standard sales orders and returns order processing._
 
